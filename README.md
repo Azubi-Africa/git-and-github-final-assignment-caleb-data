@@ -20,9 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Sales-Analysis-Project             |  -Business Analysis on Sales Transaction Data             | https://github.com/caleb-data/Sales-Analysis-Project.git       |
+| 2 |  -Titanic             |  -Exploratory Data Analysis to Predict the Groups of People who Survived             | https://github.com/caleb-data/Titanic.git       |
+| 3 |  -Multiclass-Classification-
+             |  -Creating a Model to Predict the Product Category of the Dollar Tree Dataset Based on Other Features             | https://github.com/caleb-data/Multiclass-Classification-.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
